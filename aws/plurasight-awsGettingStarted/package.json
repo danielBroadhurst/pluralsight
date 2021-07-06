@@ -28,6 +28,6 @@
     "lodash": "4.17.15",
     "pg": "7.12.1",
     "pg-hstore": "2.3.3",
-    "sequelize": "5.13.0"
+    "sequelize": "6.6.5"
   }
 }
